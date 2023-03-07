@@ -1,0 +1,94 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 100px ;
+    box-sizing: border-box;
+
+}
+
+#top > div {
+    float: left;
+}
+
+#text{
+    text-align: justify;
+    width: 60%;
+}
+
+#text2{
+    text-align: justify;
+    width: 60%;
+}
+
+#menu2{
+    background-color: azure;
+    width: 25%;
+    margin-right:20px ;
+    height: 800px;
+}
+
+#conteiner{
+    box-sizing: border-box;
+}
+
+#conteiner > div {
+    float: left;
+
+}
+
+#menu1{
+    text-align: center;
+}
+
+#html{
+    margin: 20px;
+}
+
+#css{
+    margin: 20px;
+}
+
+#js{
+    margin: 20px;
+}
+#oldpage{
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#more{
+    display: none;
+}
+
+#btn{
+    text-decoration: none;
+}
+
+#phome{
+    width: 40px;
+}
+
+#topname{
+    text-align: center;
+
+}
+
+#topphome{
+    margin: 15px;
+    width: 25%;
+    
+}

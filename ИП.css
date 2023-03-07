@@ -1,0 +1,45 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+
+}
+
+#menu{
+    background-color: azure;
+    width: 25%;
+    height: 700px;
+    margin-top: 10px;
+}
+#menu1{
+    text-align: center;
+    padding-top: 10px;
+}
+#html{
+    margin: 20px;
+}
+#css{
+    margin: 20px;
+}
+#js{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#topname{
+    text-align: center;
+
+}

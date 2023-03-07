@@ -1,0 +1,65 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#top{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+#top > div {
+    float: left;
+}
+
+#menu{
+    width: 25%;
+    background-color: azure;
+    height: 800px;
+}
+
+#menuname{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#html{
+    margin: 20px;
+}
+#css{
+    margin: 20px;
+}
+#js{
+    margin: 20px;
+}
+
+#oldpage{
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#phome{
+    width: 40px;
+}
+
+#topname{
+    text-align: center;
+
+}
+
+#topphome{
+    margin: 15px;
+    width: 25%;
+    
+}
